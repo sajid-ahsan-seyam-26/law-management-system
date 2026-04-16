@@ -1,0 +1,1079 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\windowsformsapp1\\lawconnectbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\lawconnectbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\windowsformsapp1\\lawconnectbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\lawconnectbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|i:\\aiub courses\\onedrive - american international university-bangladesh\\all semesters\\fall 24-25\\project\\login - 2\\windowsformsapp1\\windowsformsapp1\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\windowsformsapp1\\lawconnect2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\lawconnect2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\windowsformsapp1\\lawconnect1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\lawconnect1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\windowsformsapp1\\lawconnect7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\lawconnect7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\windowsformsapp1\\lawconnectonline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\lawconnectonline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\windowsformsapp1\\lawconnect10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\lawconnect10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\windowsformsapp1\\lawconnect9s.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\lawconnect9s.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\windowsformsapp1\\lawconnect9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\lawconnect9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\windowsformsapp1\\lawconnect9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\lawconnect9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\windowsformsapp1\\lawconnect12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\lawconnect12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\windowsformsapp1\\lawconnect7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\lawconnect7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\windowsformsapp1\\lawconnect6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\lawconnect6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\windowsformsapp1\\lawconnect6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\lawconnect6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\windowsformsapp1\\lawconnect5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\lawconnect5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\windowsformsapp1\\lawconnect4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\lawconnect4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\windowsformsapp1\\lawconnect4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\lawconnect4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\windowsformsapp1\\lawconnect3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\lawconnect3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\windowsformsapp1\\lawconnect3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\lawconnect3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\windowsformsapp1\\lawconnect9s.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\lawconnect9s.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\windowsformsapp1\\lawconnect12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\lawconnect12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\windowsformsapp1\\admin8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\admin8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\windowsformsapp1\\admin7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\admin7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\windowsformsapp1\\admin6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\admin6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\windowsformsapp1\\admin5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\admin5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\windowsformsapp1\\admin4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\admin4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\windowsformsapp1\\adminforgot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\adminforgot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\windowsformsapp1\\admin3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\admin3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\windowsformsapp1\\admin2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\admin2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\windowsformsapp1\\admin1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\admin1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\windowsformsapp1\\lawyer8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\lawyer8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\windowsformsapp1\\lawyer7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\lawyer7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\windowsformsapp1\\lawyer6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\lawyer6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\windowsformsapp1\\lawyer5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\lawyer5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\windowsformsapp1\\lawyer4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\lawyer4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\windowsformsapp1\\lawyerforgot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\lawyerforgot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\windowsformsapp1\\lawyer2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\lawyer2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\windowsformsapp1\\lawyer1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\lawyer1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\windowsformsapp1\\welcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\welcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\windowsformsapp1\\lawconnectonline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\lawconnectonline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\windowsformsapp1\\lawconnect10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\lawconnect10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\windowsformsapp1\\admin7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\admin7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\windowsformsapp1\\lawconnect5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\lawconnect5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\windowsformsapp1\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\windowsformsapp1\\lawconnect2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\lawconnect2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\windowsformsapp1\\lawconnect1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\lawconnect1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\windowsformsapp1\\lawyer2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\lawyer2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\windowsformsapp1\\lawyer1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\lawyer1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\windowsformsapp1\\welcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\welcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\windowsformsapp1\\lawyer8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\lawyer8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\windowsformsapp1\\lawyer6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\lawyer6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\windowsformsapp1\\lawyer5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\lawyer5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\windowsformsapp1\\lawyer7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\lawyer7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\windowsformsapp1\\lawyer4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\lawyer4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\windowsformsapp1\\lawyerforgot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\lawyerforgot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\windowsformsapp1\\adminforgot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\adminforgot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\windowsformsapp1\\admin2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\admin2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\windowsformsapp1\\admin1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\admin1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\windowsformsapp1\\admin4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\admin4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\windowsformsapp1\\admin8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\admin8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\windowsformsapp1\\admin6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\admin6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\windowsformsapp1\\admin5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\admin5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\windowsformsapp1\\admin3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0933BD3-DA44-4A12-A988-4C81E640CA05}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\admin3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 44,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Welcome.cs [Design]",
+              "DocumentMoniker": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Welcome.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Welcome.cs",
+              "ToolTip": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Welcome.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Welcome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T05:39:48.208Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LawConnect1.cs [Design]",
+              "DocumentMoniker": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\LawConnect1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\LawConnect1.cs",
+              "ToolTip": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\LawConnect1.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\LawConnect1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T13:07:19.286Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LawConnect2.cs [Design]",
+              "DocumentMoniker": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\LawConnect2.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\LawConnect2.cs",
+              "ToolTip": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\LawConnect2.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\LawConnect2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T18:15:30.038Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Form3.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form3.cs",
+              "ToolTip": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Form3.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T16:49:31.208Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LawConnect3.cs [Design]",
+              "DocumentMoniker": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\LawConnect3.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\LawConnect3.cs",
+              "ToolTip": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\LawConnect3.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\LawConnect3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T13:07:19.287Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LawConnect4.cs [Design]",
+              "DocumentMoniker": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\LawConnect4.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\LawConnect4.cs",
+              "ToolTip": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\LawConnect4.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\LawConnect4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T13:01:23.953Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LawConnect5.cs [Design]",
+              "DocumentMoniker": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\LawConnect5.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\LawConnect5.cs",
+              "ToolTip": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\LawConnect5.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\LawConnect5.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T13:42:42.763Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LawConnect6.cs [Design]",
+              "DocumentMoniker": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\LawConnect6.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\LawConnect6.cs",
+              "ToolTip": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\LawConnect6.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\LawConnect6.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T04:25:19.968Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LawConnect7.cs [Design]",
+              "DocumentMoniker": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\LawConnect7.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\LawConnect7.cs",
+              "ToolTip": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\LawConnect7.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\LawConnect7.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T15:30:54.929Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LawConnect12.cs [Design]",
+              "DocumentMoniker": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\LawConnect12.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\LawConnect12.cs",
+              "ToolTip": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\LawConnect12.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\LawConnect12.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T03:35:27.59Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Lawconnect9.cs [Design]",
+              "DocumentMoniker": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Lawconnect9.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Lawconnect9.cs",
+              "ToolTip": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Lawconnect9.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Lawconnect9.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T17:54:45.784Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LawConnect9s.cs [Design]",
+              "DocumentMoniker": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\LawConnect9s.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\LawConnect9s.cs",
+              "ToolTip": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\LawConnect9s.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\LawConnect9s.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T12:51:00.522Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LawConnect10.cs [Design]",
+              "DocumentMoniker": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\LawConnect10.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\LawConnect10.cs",
+              "ToolTip": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\LawConnect10.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\LawConnect10.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T16:20:09.954Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LawConnectBank.cs [Design]",
+              "DocumentMoniker": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\LawConnectBank.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\LawConnectBank.cs",
+              "ToolTip": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\LawConnectBank.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\LawConnectBank.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T17:04:13.558Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LawConnectOnline.cs [Design]",
+              "DocumentMoniker": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\LawConnectOnline.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\LawConnectOnline.cs",
+              "ToolTip": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\LawConnectOnline.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\LawConnectOnline.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T17:20:38.068Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Lawyer1.cs [Design]",
+              "DocumentMoniker": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Lawyer1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Lawyer1.cs",
+              "ToolTip": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Lawyer1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Lawyer1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T01:41:08.656Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Lawyer2.cs [Design]",
+              "DocumentMoniker": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Lawyer2.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Lawyer2.cs",
+              "ToolTip": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Lawyer2.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Lawyer2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T05:54:09.913Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "LawyerForgot.cs [Design]",
+              "DocumentMoniker": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\LawyerForgot.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\LawyerForgot.cs",
+              "ToolTip": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\LawyerForgot.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\LawyerForgot.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T06:21:41.358Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Lawyer4.cs [Design]",
+              "DocumentMoniker": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Lawyer4.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Lawyer4.cs",
+              "ToolTip": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Lawyer4.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Lawyer4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T06:32:28.789Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Lawyer8.cs [Design]",
+              "DocumentMoniker": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Lawyer8.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Lawyer8.cs",
+              "ToolTip": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Lawyer8.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Lawyer8.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T06:49:48.193Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Lawyer5.cs [Design]",
+              "DocumentMoniker": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Lawyer5.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Lawyer5.cs",
+              "ToolTip": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Lawyer5.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Lawyer5.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T06:58:33.886Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Lawyer6.cs [Design]",
+              "DocumentMoniker": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Lawyer6.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Lawyer6.cs",
+              "ToolTip": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Lawyer6.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Lawyer6.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T07:27:15.793Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Lawyer7.cs [Design]",
+              "DocumentMoniker": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Lawyer7.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Lawyer7.cs",
+              "ToolTip": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Lawyer7.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Lawyer7.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T10:50:55.346Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Admin1.cs [Design]",
+              "DocumentMoniker": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Admin1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Admin1.cs",
+              "ToolTip": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Admin1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Admin1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T13:33:43.159Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Adminforgot.cs [Design]",
+              "DocumentMoniker": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Adminforgot.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Adminforgot.cs",
+              "ToolTip": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Adminforgot.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Adminforgot.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T14:02:07.74Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Admin2.cs [Design]",
+              "DocumentMoniker": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Admin2.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Admin2.cs",
+              "ToolTip": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Admin2.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Admin2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T14:06:10.845Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Admin3.cs [Design]",
+              "DocumentMoniker": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Admin3.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Admin3.cs",
+              "ToolTip": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Admin3.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Admin3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T14:26:15.53Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Admin4.cs [Design]",
+              "DocumentMoniker": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Admin4.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Admin4.cs",
+              "ToolTip": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Admin4.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Admin4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T15:17:42.382Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Admin5.cs [Design]",
+              "DocumentMoniker": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Admin5.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Admin5.cs",
+              "ToolTip": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Admin5.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Admin5.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T15:24:57.456Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Admin6.cs [Design]",
+              "DocumentMoniker": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Admin6.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Admin6.cs",
+              "ToolTip": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Admin6.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Admin6.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T15:44:24.124Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Admin7.cs [Design]",
+              "DocumentMoniker": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Admin7.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Admin7.cs",
+              "ToolTip": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Admin7.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Admin7.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T15:57:56.689Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Admin8.cs [Design]",
+              "DocumentMoniker": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Admin8.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Admin8.cs",
+              "ToolTip": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Admin8.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Admin8.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T16:09:21.473Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "LawConnect1.cs",
+              "DocumentMoniker": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\LawConnect1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\LawConnect1.cs",
+              "ToolTip": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\LawConnect1.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\LawConnect1.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAkwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T13:07:19.286Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "LawConnect2.cs",
+              "DocumentMoniker": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\LawConnect2.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\LawConnect2.cs",
+              "ToolTip": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\LawConnect2.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\LawConnect2.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAowFsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T18:15:26.027Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Form3.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form3.cs",
+              "ToolTip": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Form3.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Form3.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAmwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T16:49:43.147Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LawConnect3.cs",
+              "DocumentMoniker": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\LawConnect3.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\LawConnect3.cs",
+              "ToolTip": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\LawConnect3.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\LawConnect3.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAIA7wHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T13:07:19.285Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LawConnect4.cs",
+              "DocumentMoniker": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\LawConnect4.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\LawConnect4.cs",
+              "ToolTip": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\LawConnect4.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\LawConnect4.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAArwKYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T13:07:18.655Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "LawConnect5.cs",
+              "DocumentMoniker": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\LawConnect5.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\LawConnect5.cs",
+              "ToolTip": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\LawConnect5.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\LawConnect5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T13:48:41.46Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LawConnect6.cs",
+              "DocumentMoniker": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\LawConnect6.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\LawConnect6.cs",
+              "ToolTip": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\LawConnect6.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\LawConnect6.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAArwKkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T04:30:15.012Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LawConnect7.cs",
+              "DocumentMoniker": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\LawConnect7.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\LawConnect7.cs",
+              "ToolTip": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\LawConnect7.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\LawConnect7.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAArwGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T15:33:09.646Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Lawconnect9.cs",
+              "DocumentMoniker": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Lawconnect9.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Lawconnect9.cs",
+              "ToolTip": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Lawconnect9.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Lawconnect9.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAArwI0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T17:55:14.124Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LawConnect9s.cs",
+              "DocumentMoniker": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\LawConnect9s.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\LawConnect9s.cs",
+              "ToolTip": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\LawConnect9s.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\LawConnect9s.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwDUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T12:54:53.971Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "LawConnect10.cs",
+              "DocumentMoniker": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\LawConnect10.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\LawConnect10.cs",
+              "ToolTip": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\LawConnect10.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\LawConnect10.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T16:25:50.443Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LawConnect12.cs",
+              "DocumentMoniker": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\LawConnect12.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\LawConnect12.cs",
+              "ToolTip": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\LawConnect12.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\LawConnect12.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAEwCgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T04:02:04.476Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LawConnectBank.cs",
+              "DocumentMoniker": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\LawConnectBank.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\LawConnectBank.cs",
+              "ToolTip": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\LawConnectBank.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\LawConnectBank.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAEwE0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T17:22:49.996Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "LawConnectOnline.cs",
+              "DocumentMoniker": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\LawConnectOnline.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\LawConnectOnline.cs",
+              "ToolTip": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\LawConnectOnline.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\LawConnectOnline.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T17:25:33.544Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Welcome.cs",
+              "DocumentMoniker": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Welcome.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Welcome.cs",
+              "ToolTip": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Welcome.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Welcome.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwCUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T05:44:45.403Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Lawyer1.cs",
+              "DocumentMoniker": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Lawyer1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Lawyer1.cs",
+              "ToolTip": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Lawyer1.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Lawyer1.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T05:38:42.964Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Lawyer2.cs",
+              "DocumentMoniker": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Lawyer2.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Lawyer2.cs",
+              "ToolTip": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Lawyer2.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Lawyer2.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAuwCQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T06:10:08.918Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "LawyerForgot.cs",
+              "DocumentMoniker": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\LawyerForgot.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\LawyerForgot.cs",
+              "ToolTip": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\LawyerForgot.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\LawyerForgot.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T06:27:04.055Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Lawyer4.cs",
+              "DocumentMoniker": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Lawyer4.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Lawyer4.cs",
+              "ToolTip": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Lawyer4.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Lawyer4.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAASwDIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T06:41:56.788Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Lawyer5.cs",
+              "DocumentMoniker": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Lawyer5.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Lawyer5.cs",
+              "ToolTip": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Lawyer5.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Lawyer5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T06:58:58.317Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Lawyer6.cs",
+              "DocumentMoniker": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Lawyer6.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Lawyer6.cs",
+              "ToolTip": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Lawyer6.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Lawyer6.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T07:28:18.173Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Lawyer7.cs",
+              "DocumentMoniker": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Lawyer7.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Lawyer7.cs",
+              "ToolTip": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Lawyer7.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Lawyer7.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T10:53:14.414Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Lawyer8.cs",
+              "DocumentMoniker": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Lawyer8.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Lawyer8.cs",
+              "ToolTip": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Lawyer8.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Lawyer8.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAUwC8AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T06:51:18.088Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Admin1.cs",
+              "DocumentMoniker": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Admin1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Admin1.cs",
+              "ToolTip": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Admin1.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Admin1.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAiwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T13:45:11.383Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Admin2.cs",
+              "DocumentMoniker": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Admin2.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Admin2.cs",
+              "ToolTip": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Admin2.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Admin2.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAiwDwAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T14:19:48.346Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Admin3.cs",
+              "DocumentMoniker": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Admin3.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Admin3.cs",
+              "ToolTip": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Admin3.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Admin3.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAcwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T14:27:50.145Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Adminforgot.cs",
+              "DocumentMoniker": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Adminforgot.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Adminforgot.cs",
+              "ToolTip": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Adminforgot.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Adminforgot.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAowBgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T14:03:42.095Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Admin4.cs",
+              "DocumentMoniker": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Admin4.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Admin4.cs",
+              "ToolTip": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Admin4.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Admin4.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T15:20:02.728Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Admin5.cs",
+              "DocumentMoniker": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Admin5.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Admin5.cs",
+              "ToolTip": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Admin5.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Admin5.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAcwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T15:27:45.439Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Admin6.cs",
+              "DocumentMoniker": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Admin6.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Admin6.cs",
+              "ToolTip": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Admin6.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Admin6.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAjwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T15:45:28.621Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Admin7.cs",
+              "DocumentMoniker": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Admin7.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Admin7.cs",
+              "ToolTip": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Admin7.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Admin7.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAD4v3cAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T16:00:50.764Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Admin8.cs",
+              "DocumentMoniker": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Admin8.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Admin8.cs",
+              "ToolTip": "I:\\AIUB courses\\OneDrive - American International University-Bangladesh\\All Semesters\\Fall 24-25\\Project\\login - 2\\WindowsFormsApp1\\WindowsFormsApp1\\Admin8.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Admin8.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T16:10:46.28Z",
+              "IsPinned": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

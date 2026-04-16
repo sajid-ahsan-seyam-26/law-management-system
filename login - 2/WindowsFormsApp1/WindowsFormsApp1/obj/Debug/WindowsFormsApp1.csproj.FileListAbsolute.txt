@@ -1,0 +1,210 @@
+C:\Users\Teacher\Desktop\samples\v-2\login\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Teacher\Desktop\samples\v-2\login\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Teacher\Desktop\samples\v-2\login\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Teacher\Desktop\samples\v-2\login\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Teacher\Desktop\samples\v-2\login\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Teacher\Desktop\samples\v-2\login\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Teacher\Desktop\samples\v-2\login\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Teacher\Desktop\samples\v-2\login\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\Desktop\samples\v-2\login\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Teacher\Desktop\samples\v-2\login\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Teacher\Desktop\samples\v-2\login\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Teacher\Desktop\samples\v-2\login\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\Teacher\Desktop\samples\v-2\login\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\Teacher\Desktop\samples\v-2\login - 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Teacher\Desktop\samples\v-2\login - 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Teacher\Desktop\samples\v-2\login - 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Teacher\Desktop\samples\v-2\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Teacher\Desktop\samples\v-2\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Teacher\Desktop\samples\v-2\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Teacher\Desktop\samples\v-2\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\Teacher\Desktop\samples\v-2\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\Teacher\Desktop\samples\v-2\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Teacher\Desktop\samples\v-2\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Teacher\Desktop\samples\v-2\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\Desktop\samples\v-2\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Teacher\Desktop\samples\v-2\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\login+reg+showall\login - 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\login+reg+showall\login - 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\login+reg+showall\login - 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\login+reg+showall\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\login+reg+showall\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\login+reg+showall\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\login+reg+showall\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\login+reg+showall\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\login+reg+showall\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\login+reg+showall\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\login+reg+showall\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LawConnect1.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\login+reg+showall\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LawConnect3.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\login+reg+showall\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LawConnect4.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\login+reg+showall\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LawConnect5.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\login+reg+showall\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\login+reg+showall\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\login+reg+showall\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\login+reg+showall\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\login+reg+showall\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LawConnect1.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\login+reg+showall\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\login+reg+showall\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LawConnect3.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\login+reg+showall\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LawConnect4.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\login+reg+showall\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LawConnect5.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\login+reg+showall\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\login+reg+showall\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\login+reg+showall\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\login+reg+showall\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\login+reg+showall\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\login+reg+showall\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LawConnect6.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\login+reg+showall\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LawConnect7.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\login+reg+showall\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\login+reg+showall\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\login+reg+showall\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Lawconnect9.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\login+reg+showall\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LawConnect10.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\login+reg+showall\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LawConnectBank.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\login+reg+showall\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LawConnectOnline.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\login+reg+showall\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Welcome.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\login+reg+showall\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Lawyer1.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\login+reg+showall\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Lawyer2.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\login+reg+showall\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LawyerForgot.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\login+reg+showall\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Lawyer4.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\login+reg+showall\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Lawyer5.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\login+reg+showall\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Lawyer6.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\login+reg+showall\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Lawyer7.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\login+reg+showall\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LawConnect11.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\login+reg+showall\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin1.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\login+reg+showall\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Adminforgot.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\login+reg+showall\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin2.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\login+reg+showall\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin3.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\login+reg+showall\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin4.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\login+reg+showall\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin5.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\login+reg+showall\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin6.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\login+reg+showall\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin7.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\login+reg+showall\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin8.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\login+reg+showall\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LawConnect9s.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin1.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin2.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin3.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin4.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin5.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin6.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin7.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin8.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Adminforgot.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LawConnect11.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LawConnect9s.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Lawyer4.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Lawyer2.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Lawyer5.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Lawyer6.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Lawyer7.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LawyerForgot.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Welcome.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LawConnect10.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LawConnect7.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LawConnect6.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LawConnect1.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LawConnect3.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LawConnect4.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LawConnect5.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Lawconnect9.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LawConnectBank.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LawConnectOnline.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Lawyer1.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\C# project tutorials\Laptop\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\login - 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\login - 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\login - 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin1.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin2.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin3.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin4.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin5.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin6.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin7.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin8.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Adminforgot.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LawConnect11.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LawConnect2.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LawConnect9s.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Lawyer4.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Lawyer2.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Lawyer5.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Lawyer6.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Lawyer7.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LawyerForgot.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Welcome.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LawConnect10.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LawConnect7.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LawConnect6.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LawConnect1.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LawConnect3.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LawConnect4.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LawConnect5.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Lawconnect9.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LawConnectBank.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LawConnectOnline.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Lawyer1.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Lawyer8.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LawConnect12.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\Project\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\Project\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\Project\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\Project\login - 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\Project\login - 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\Project\login - 2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\Project\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin1.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\Project\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin2.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\Project\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin3.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\Project\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin4.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\Project\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin5.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\Project\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin6.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\Project\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin7.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\Project\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin8.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\Project\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\Project\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Adminforgot.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\Project\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LawConnect11.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\Project\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LawConnect12.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\Project\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LawConnect2.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\Project\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LawConnect9s.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\Project\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Lawyer8.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\Project\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Lawyer4.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\Project\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Lawyer2.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\Project\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Lawyer5.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\Project\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Lawyer6.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\Project\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Lawyer7.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\Project\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LawyerForgot.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\Project\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Welcome.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\Project\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LawConnect10.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\Project\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\Project\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LawConnect7.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\Project\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LawConnect6.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\Project\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LawConnect1.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\Project\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\Project\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LawConnect3.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\Project\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LawConnect4.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\Project\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LawConnect5.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\Project\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Lawconnect9.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\Project\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LawConnectBank.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\Project\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LawConnectOnline.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\Project\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Lawyer1.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\Project\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\Project\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+I:\AIUB courses\OneDrive - American International University-Bangladesh\All Semesters\Fall 24-25\Project\login - 2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
