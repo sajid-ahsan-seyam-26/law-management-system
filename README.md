@@ -99,8 +99,7 @@ Before running the project, make sure you have:
 ## Setup Instructions
 
 ### 1. Clone the repository
-```bash
-git clone https://github.com/your-username/your-repo-name.git
+https://github.com/sajid-ahsan-seyam-26/law-management-system.git
 ```
 
 ### 2. Open the solution / project
